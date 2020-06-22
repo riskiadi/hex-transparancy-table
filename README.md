@@ -9,7 +9,7 @@
     <table class="tg">
 <thead>
   <tr>
-    <th class="tg-c3ow">Percent</th>
+    <th class="tg-c3ow">Opacity</th>
     <th class="tg-c3ow">Hex</th>
   </tr>
 </thead>
